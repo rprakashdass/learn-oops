@@ -1,4 +1,4 @@
-# Bank Account System in C++ - Object-Oriented Approach
+# Bank Account System in C++
 
 Managing bank accounts is a fundamental application of Object-Oriented Programming (OOP). In this article, we will walk through a **Bank Account System** implemented in C++, demonstrating key OOP concepts such as **encapsulation, constructors, private and public access specifiers, and error handling**.
 
