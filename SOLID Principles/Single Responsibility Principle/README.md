@@ -26,16 +26,17 @@ This ensures better maintainability, scalability, and separation of concerns.
 - Does **not** modify orders or validate them.
 
 ## Advantages of SRP in this Code:
-✅ Improved Maintainability → Each class has a clear role.  
-✅ Scalability → Easy to extend functionality without breaking existing code.  
-✅ Better Readability → Each class is easy to understand and debug.  
-✅ Reduced Dependencies → No unnecessary coupling between unrelated tasks.  
+✅ **Improved Maintainability** → Each class has a clear role.  
+✅ **Scalability** → Easy to extend functionality without breaking existing code.  
+✅ **Better Readability** → Each class is easy to understand and debug.  
+✅ **Reduced Dependencies** → No unnecessary coupling between unrelated tasks.  
 
 ## 🚀 Execution:
 ```sh
 g++ main.cpp -o program
 ./program
-```
+
+---
 
 ### **Benefits of This SRP Refactor:**
 1. **Each class has a single responsibility.**  
