@@ -33,7 +33,7 @@ This ensures better maintainability, scalability, and separation of concerns.
 
 ## 🚀 Execution:
 ```sh
-g++ main.cpp -o program
+g++ foodOrderSystem.cpp -o program
 ./program
 
 ---
